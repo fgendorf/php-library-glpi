@@ -1,6 +1,6 @@
 {
     "version": "0.1.0",
-    "name": "glpi-project\/php-library-glpi",
+    "name": "fgendorf\/php-library-glpi",
     "type": "library",
     "description": "GLPI API Client Library for PHP",
     "keywords": [
@@ -29,7 +29,7 @@
     },
     "require": {
         "php": ">=5.6.0",
-        "guzzlehttp\/guzzle": "^6.3"
+        "guzzlehttp\/guzzle": "^7.3"
     },
     "require-dev": {
         "atoum\/atoum": "^3.1",
